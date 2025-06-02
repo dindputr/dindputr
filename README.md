@@ -7,7 +7,6 @@
   🎓 Informatics Engineering Student | 🎨 UI/UX Designer | 💻 Front-End Developer
 </p>
 
----
 &nbsp;
 
 ## 🧕 About Me
@@ -25,7 +24,6 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
 - 🎨 Freelance <b>UI/UX Designer</b>
 - 🌐 Freelance <b>Web Developer</b>
 
----
 &nbsp;
 
 ## 🛠 Tech Stack
@@ -57,7 +55,6 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
 <img src="https://img.shields.io/badge/Webpack-ffffff?style=flat&logo=webpack&logoColor=8DD6F9&labelColor=ffffff&color=E51C64" />
 </div>
 
----
 &nbsp;
 
 ## 📊 GitHub Stats
@@ -67,7 +64,7 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dindputr&layout=compact&hide_border=true&title_color=E51C64&text_color=190F60&bg_color=FFFFFF" height="150"/>
 </div>
 
----&nbsp;
+&nbsp;
 
 ## 🤝 Connect With Me
 
