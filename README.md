@@ -62,8 +62,8 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dindputr&show_icons=true&hide_border=true&title_color=E51C64&icon_color=E51C64&text_color=190F60&bg_color=FFFFFF" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dindputr&layout=compact&hide_border=true&title_color=E51C64&text_color=190F60&bg_color=FFFFFF" height="150"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api username=dindputr&show_icons=true&title_color=E51C64&icon_color=E51C64&text_color=190F60&bg_color=FFFFFF&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dindputr&layout=compact&langs_count=8&hide_border=true&title_color=E51C64&text_color=190F60&bg_color=FFFFFF"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dindputr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dindputr&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 
