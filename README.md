@@ -2,14 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=dindputr&color=E51C64" alt="Profile Views" />
 </p>
 
-<h1 align="center">
-  <span style="color:#FFFFFF;">Hi there, I'm</span>
-  <span style="color:#E51C64;"> Dinda Putri Rahmatia</span>! 👋
-</h1>
+<h1 align="center">Hi there, I'm Dinda Putri Rahmatia! 👋</h1>
 <p align="center" style="color:#190F60;">
   🎓 Informatics Engineering Student | 🎨 UI/UX Designer | 💻 Front-End Developer
 </p>
-&nbsp;
+
 ---
 
 ## 🧕 About Me
@@ -19,14 +16,14 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
 
 💡 I enjoy turning complex problems into simple, beautiful, and intuitive designs.  
 🧠 I’m always curious and constantly learning new things to expand my skillset.
-</span>
+
 
 ### 📌 Highlights
 
 - 🛠️ Participant in <b>DBS Coding Camp 2025</b> (Front-End & Back-End Path)  
 - 🎨 Freelance <b>UI/UX Designer</b>
 - 🌐 Freelance <b>Web Developer</b>
-&nbsp;
+
 ---
 
 ## 🛠 Tech Stack
@@ -57,7 +54,7 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
 <img src="https://img.shields.io/badge/Vite-ffffff?style=flat&logo=vite&logoColor=646CFF&labelColor=ffffff&color=E51C64" />
 <img src="https://img.shields.io/badge/Webpack-ffffff?style=flat&logo=webpack&logoColor=8DD6F9&labelColor=ffffff&color=E51C64" />
 </div>
-&nbsp;
+
 ---
 
 ## 📊 GitHub Stats
@@ -66,7 +63,7 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
   <img src="https://github-readme-stats.vercel.app/api?username=dindputr&show_icons=true&hide_border=true&title_color=E51C64&icon_color=E51C64&text_color=190F60&bg_color=FFFFFF" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dindputr&layout=compact&hide_border=true&title_color=E51C64&text_color=190F60&bg_color=FFFFFF" height="150"/>
 </div>
-&nbsp;
+
 ---
 
 ## 🤝 Connect With Me
