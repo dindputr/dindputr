@@ -8,6 +8,7 @@
 </p>
 
 ---
+&nbsp;
 
 ## 🧕 About Me
 
@@ -25,6 +26,7 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
 - 🌐 Freelance <b>Web Developer</b>
 
 ---
+&nbsp;
 
 ## 🛠 Tech Stack
 
@@ -56,6 +58,7 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
 </div>
 
 ---
+&nbsp;
 
 ## 📊 GitHub Stats
 
@@ -64,7 +67,7 @@ I'm a tech-savvy student passionate about crafting engaging digital experiences.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dindputr&layout=compact&hide_border=true&title_color=E51C64&text_color=190F60&bg_color=FFFFFF" height="150"/>
 </div>
 
----
+---&nbsp;
 
 ## 🤝 Connect With Me
 
