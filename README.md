@@ -12,7 +12,7 @@
 ## 🧕 About Me
 
 <span style="color:#190F60">
-I'm a tech-savvy student passionate about crafting engaging digital experiences. Currently pursuing a Bachelor’s degree in <b>Informatics Engineering</b> at <b>Universitas Nurdin Hamzah</b>, I focus on <b>UI/UX Design</b> and <b>Front-End Development</b> to bring creative ideas into functional web interfaces.
+I'm a tech-savvy student passionate about crafting engaging digital experiences. Currently pursuing a Bachelor’s degree in <b>Informatics Engineering</b> at <b>Nurdin Hamzah University</b>, I focus on <b>UI/UX Design</b> and <b>Front-End Development</b> to bring creative ideas into functional web interfaces.
 
 💡 I enjoy turning complex problems into simple, beautiful, and intuitive designs.  
 🧠 I’m always curious and constantly learning new things to expand my skillset.
