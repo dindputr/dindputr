@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=dindputr&color=E51C64" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dindputr&color=E51C64&labelColor=ffffff" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi there, I'm Dinda Putri Rahmatia! 👋</h1>
